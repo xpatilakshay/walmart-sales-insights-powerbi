@@ -1,3 +1,8 @@
+# 📊 Walmart Sales Insights Dashboard – Power BI Project
+
+> **Task 2 – Data Visualization & Storytelling**  
+> Data Analyst Internship Program
+
 # Dashboard
 ![Dashboard](https://github.com/xpatilakshay/walmart-sales-insights-powerbi/blob/a6e6b1e72a9abb66eb37b411b61d845c92075023/Walmart_Sales_Task-2/Project%20Screenshots/Dashboard.png)
 
@@ -12,13 +17,6 @@
 
 # Shipping and Operations
 ![Shipping And Operations](https://github.com/xpatilakshay/walmart-sales-insights-powerbi/blob/35b6a86a74259ad0ae30f9a96e79b9bd28a5fc04/Walmart_Sales_Task-2/Project%20Screenshots/Shipping%20and%20operations.png)
-
-# 📊 Walmart Sales Insights Dashboard – Power BI Project
-
-> **Task 2 – Data Visualization & Storytelling**  
-> Data Analyst Internship Program
-
-![Dashboard Preview](./Dashboard.png)
 
 ---
 
