@@ -127,22 +127,13 @@ The raw dataset (from Superstore-style data) was cleaned in Python using Pandas:
 
 ---
 
-## 📬 Submission
-
-This project was created for **Task 2 – Data Visualization and Storytelling** as part of the Data Analyst Internship program.
-
-📤 **Submission Link**: [https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
----
-
 ## 📎 Connect with Me
 
 I’m passionate about turning data into decisions.  
 Let’s connect and build something meaningful! 👇
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📫 Email: youremail@example.com
-- 💻 Portfolio: [Your Portfolio Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/xpatilakshay)
+- 📫 Email: akshay434341@gmail.com
 
 ---
 
